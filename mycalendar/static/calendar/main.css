@@ -1,0 +1,26 @@
+.HeaderObject{
+	display:inline-block;
+	margin-right:5%;
+}
+#MainDiv{
+	width:100%;
+}
+.Content{
+	display:inline-block;
+}
+#Sidebar{
+	width:10%;
+}
+#MainWindow{
+	width:80%;
+}
+#MiniCalendarDiv{
+	margin-top: 20px;
+}
+#MiniCalendar td{
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+}
